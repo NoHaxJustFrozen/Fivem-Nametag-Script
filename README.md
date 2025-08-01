@@ -41,9 +41,7 @@ Everything is adjustable through `config.lua`:
 
 Need help configuring or integrating this resource?
 
-> **Join Discord:** `NoHaxJustFrozen`  
-> For questions, feedback or support — please open a ticket.  
-> **Avoid direct DMs** unless it's critical.
+> **Discord:** `NoHaxJustFrozen`  
 
 We are happy to help international server owners!
 
